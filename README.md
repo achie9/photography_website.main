@@ -1,1 +1,1 @@
-# photography_website.main
+# photography_website-main
